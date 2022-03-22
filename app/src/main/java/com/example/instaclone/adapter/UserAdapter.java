@@ -101,7 +101,7 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder> {
             }
         });
 
-
+// ok ok
 
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
